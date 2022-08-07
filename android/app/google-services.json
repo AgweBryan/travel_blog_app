@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "232584370641",
+    "project_id": "travel-blog-app-f3f57",
+    "storage_bucket": "travel-blog-app-f3f57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232584370641:android:cdf9799ddf554690c6a8f0",
+        "android_client_info": {
+          "package_name": "com.agwemedia.travel_blog_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232584370641-j2eja6g62guevri7pu4lsot880taring.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agwemedia.travel_blog_app",
+            "certificate_hash": "871c05eadfec04c39f4b03e6523948f3d84c4b34"
+          }
+        },
+        {
+          "client_id": "232584370641-0i4h03rg9q38o0ermfmmtr6olllpcdu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG-f1ue9Rp58KSt9xoABsnucZ1duHG_sU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232584370641-0i4h03rg9q38o0ermfmmtr6olllpcdu1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
